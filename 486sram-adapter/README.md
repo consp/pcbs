@@ -22,7 +22,7 @@ Noteworthy parts:
 
 Note: wire to hold it on an angle is not included.
 
-![image](486sram-adapter/image.jpg)
+![image](image.jpg)
 
 # License
 
