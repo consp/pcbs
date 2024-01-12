@@ -24,6 +24,6 @@ You need to glue the shielding onto the connector, unless you can find one which
 This work is licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 
 # First attempt
-![firstattempt](gameport-midi-adapter/firstattempt.png)
+![firstattempt](firstattempt.png)
 
 This is my initial version. Not my best soldering work but it works. As you can see I made the mistake of aiming the port to the side, this does not work well. Also: I forgot the GND/VCC nets ...
