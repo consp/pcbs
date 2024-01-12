@@ -8,6 +8,8 @@ Why throughole? It's easier to work with and it's what I had available.
 
 Why no midi in? I'm not using it and also had no optocouplers available.
 
+New version has rear facing ports and nets.
+
 # Components
 * 4050 buffer chip
 * 4k7 resistor
@@ -18,9 +20,10 @@ Why no midi in? I'm not using it and also had no optocouplers available.
 You need to glue the shielding onto the connector, unless you can find one which has the shielding already molded in since you need to remove the screws on the male part.
 
 # License
+
 This work is licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 
 # First attempt
-![firstattempt](firstattempt.png)
+![firstattempt](gameport-midi-adapter/firstattempt.png)
 
-Not my best soldering work but it works. As you can see I made the mistake of aiming the port to the side, this does not work well. Also: I forgot the GND/VCC nets ...
+This is my initial version. Not my best soldering work but it works. As you can see I made the mistake of aiming the port to the side, this does not work well. Also: I forgot the GND/VCC nets ...
