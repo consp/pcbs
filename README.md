@@ -4,6 +4,7 @@ Available:
 
 * SOJ32 <-> DIP32s adapter for SRAM chips
 * MIDI Adapter for 15 pin gameport ports
+* Adapter board for Sparta ION XGT motors
 
 Not publicly available/on request:
 
