@@ -10,7 +10,7 @@ Features:
 * Phoenix (or equivalen) 2.54mm screw terminals for the signal wires.
 * Bottom and top traces for the phases since the cheap PCB manufacturers use 1oz copper you need as much as you can get, but it should be more than enough for the 24A max rating of the WAGO connectors.
 * 0603 capacitor slots for when the s/n ratio is too much due to bad cable shielding, if you get a 15khz signal the phases are messing with the hall sensors. By putting a 1nF cap on all sensor lines you can get rid of some of the 15khz noise. Add caps to the power line if those cause troubles, this was not needed for my setup.
-* (optional) Hall mounting bracket to get the sensors in the right place and keep them there, they need to be mounted max 9mm above the pcb. https://github.com/consp/cad/sparta-ion-motor-hall
+* (optional) Hall mounting bracket to get the sensors in the right place and keep them there, they need to be mounted max 9mm above the pcb. https://github.com/consp/cad/tree/main/sparta-ion-motor-hall
 
 
 Advise to put together:
