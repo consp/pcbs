@@ -34,3 +34,7 @@ This work is licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/b
 # Final version
 ![bottom](bottom.png)
 ![top](top.png)
+
+# In the motor
+![bottom](bottom_board_in_place.jpg)
+![top](top_board_in_place.jpg)
